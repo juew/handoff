@@ -9,7 +9,7 @@
       "name": "handoff",
       "source": "./",
       "description": "Session hand-off for the Claude Code desktop app: notes, released bindings, an off-duty rename and a one-click chip that starts the successor.",
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }
