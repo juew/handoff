@@ -1,7 +1,7 @@
 {
   "name": "handoff",
   "description": "Session hand-off for the Claude Code desktop app. The old session writes handoff notes, releases its bindings, renames itself off duty and leaves a one-click chip; the successor starts where it left off.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "juew"
   },
